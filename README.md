@@ -8,11 +8,10 @@ This project uses **SQL** for data cleaning, data validation, and exploratory da
 
 The primary objective is to identify workforce trends, understand employee attrition patterns, and provide data-driven insights that can support strategic HR planning and employee retention initiatives.
 
-<img width="1323" height="737" alt="hr_analytics1" src="https://github.com/user-attachments/assets/bd1899cb-e020-46f2-b714-bfafd482b831" />
-<img width="1298" height="743" alt="hr_analytics2" src="https://github.com/user-attachments/assets/89842202-a563-45c4-a825-b597ec84a805" />
-<img width="1600" height="900" alt="hr_analytics3" src="https://github.com/user-attachments/assets/7c98f2ff-3cec-4638-a2b4-a32e9639dde9" />
-<img width="1600" height="900" alt="hr_analytics4" src="https://github.com/user-attachments/assets/614ca01a-c25a-4d07-a78c-1b8a15134731" />
-
+<img width="1323" height="737" alt="imag1" src="https://github.com/user-attachments/assets/a8eae490-e8bc-43cd-a4b9-2cdff8edb205" />
+<img width="1298" height="743" alt="image2" src="https://github.com/user-attachments/assets/00cbbcfe-df5e-4f42-87fe-1a31c4ce278b" />
+<img width="1600" height="785" alt="image3" src="https://github.com/user-attachments/assets/c429aa04-0b46-4246-bf75-feb01396bfe4" />
+<img width="1599" height="791" alt="image4" src="https://github.com/user-attachments/assets/0066dde4-6da8-4614-816b-82995bccd173" />
 
 ## 🎯 Business Objectives
 
